@@ -1,0 +1,12 @@
+{
+  "name": "sca-branch-scan-probe",
+  "version": "1.0.0",
+  "description": "Cycode SCA branch-scan verification probe — known-vulnerable deps",
+  "dependencies": {
+    "ws": "5.2.4",
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "axios": "0.21.0",
+    "validator": "13.7.0"
+  }
+}
